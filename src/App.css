@@ -1,0 +1,18 @@
+body{
+background-color:#011;
+display: flex;
+justify-content: center;
+
+}
+*{
+
+}
+.btn{
+    background-color: rgb(144, 144, 144);
+    /* background-color: #24292d; */
+
+}
+.btn:hover{
+    cursor: pointer;
+
+}
